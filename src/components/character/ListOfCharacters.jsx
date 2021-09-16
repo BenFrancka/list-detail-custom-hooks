@@ -1,5 +1,5 @@
 import React from 'react';
-import CharacterListItem from '../characters/CharacterListItem';
+import CharacterListItem from '../character/CharacterListItem';
 import { Link } from 'react-router-dom';
 import { useCharacter } from '../../hooks/useCharacter';
 
