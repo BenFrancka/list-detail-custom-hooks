@@ -1,5 +1,36 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
+exports[`Rick and Morty info App displays a detail view of a single Rick and Morty Character 1`] = `
+<div>
+  <header>
+    <a
+      href="/"
+    >
+      Portal to Homepage
+    </a>
+  </header>
+  <ul
+    aria-label="character details"
+  >
+    <li>
+      <img
+        alt="Morty Smith"
+        src="https://rickandmortyapi.com/api/character/avatar/2.jpeg"
+      />
+    </li>
+    <li>
+      Morty Smith
+    </li>
+    <li>
+      Alive
+    </li>
+    <li>
+      Human
+    </li>
+  </ul>
+</div>
+`;
+
 exports[`Rick and Morty info App displays a list of Rick and Morty Characters 1`] = `
 <div>
   <ul
